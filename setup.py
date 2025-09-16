@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
     name="Instaweb",
-    version="1.1",
+    version="1.2",
     description="Instagram Web",
     author="Lariot",
     author_email="lariot.antsa@gmail.com",
